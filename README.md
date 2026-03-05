@@ -62,6 +62,6 @@ I am a Mechanical Engineering student at **UFMG** and an Intern at **ISQ**. I am
 ---
 
 ###  Contato / Contact
-- 📍 Belo Horizonte, MG, Brazil [cite: 2, 43]
-- 📧 [lucasmurici9@gmail.com](mailto:lucasmurici9@gmail.com) [cite: 2, 43]
+- 📍 Belo Horizonte, MG, Brazil 
+- 📧 [lucasmurici9@gmail.com](mailto:lucasmurici9@gmail.com) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-murici-a382291b0)
