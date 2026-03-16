@@ -20,7 +20,7 @@ Atualmente sou estudante de Engenharia Mecânica na **UFMG** e estagiário no **
 
 ###  Ferramentas e Tecnologias
 - **CAD/CAE:** ANSYS (Structural & CFD), Creo Parametric, Autodesk Inventor, SolidWorks, AutoCAD.
-- **Programação:** Python (Avançado), VBA (Excel), Bibliotecas de análise de dados.
+- **Programação:** Python, VBA (Excel), Bibliotecas de análise de dados.
 - **Data & Business:** Power BI, Análise Financeira (EBITDA, DRE, DFC) e Gestão de Projetos Ágeis.
 
 ###  Projetos em Destaque (O link para os projetos ainda serão adicionados quando finalizados)
@@ -48,7 +48,7 @@ I am a Mechanical Engineering student at **UFMG** and an Intern at **ISQ**. I am
 
 ###  Tools and Technologies
 - **CAD/CAE:** ANSYS (Structural & CFD), Creo Parametric, Autodesk Inventor, SolidWorks, AutoCAD.
-- **Programming:** Python (Advanced), VBA (Excel Automation), Data Analysis libraries.
+- **Programming:** Python, VBA (Excel Automation), Data Analysis libraries.
 - **Data & Business:** Power BI, Corporate Finance (EBITDA, P&L, Cash Flow), and Agile Project Management.
 
 ###  Featured Projects (The links to the projects will be added when they are finalized)
