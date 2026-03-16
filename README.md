@@ -23,7 +23,7 @@ Atualmente sou estudante de Engenharia Mecânica na **UFMG** e estagiário no **
 - **Programação:** Python (Avançado), VBA (Excel), Bibliotecas de análise de dados.
 - **Data & Business:** Power BI, Análise Financeira (EBITDA, DRE, DFC) e Gestão de Projetos Ágeis.
 
-###  Projetos em Destaque
+###  Projetos em Destaque (O link para os projetos ainda serão adicionados quando finalizados)
 
 1. **[Otimizador Paramétrico de Geometria](link)**
    - Automação entre SolidWorks e ANSYS via Python para redução de peso em componentes mecânicos.
@@ -51,7 +51,7 @@ I am a Mechanical Engineering student at **UFMG** and an Intern at **ISQ**. I am
 - **Programming:** Python (Advanced), VBA (Excel Automation), Data Analysis libraries.
 - **Data & Business:** Power BI, Corporate Finance (EBITDA, P&L, Cash Flow), and Agile Project Management.
 
-###  Featured Projects
+###  Featured Projects (The links to the projects will be added when they are finalized)
 
 1. **[Parametric Geometry Optimizer](link)**
    - Automation between SolidWorks and ANSYS via Python for weight reduction in mechanical components.
